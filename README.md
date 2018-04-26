@@ -6,3 +6,5 @@ use google test as framework
 	cd make
 	make
 	make test
+
+### JenkinsTest
